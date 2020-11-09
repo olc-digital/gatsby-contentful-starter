@@ -1,0 +1,30 @@
+# Gatsby
+public/
+.cache/
+
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# Gatsby files
+.cache/
+
+# MacOS Finder
+.DS_Store
