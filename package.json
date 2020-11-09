@@ -1,19 +1,15 @@
 {
-  "name": "bodycoach-website",
+  "name": "gatsby-contentful-starter",
   "private": true,
   "description": "",
   "version": "0.1.0",
-  "author": "ustwo",
+  "author": "OLC Digital",
   "scripts": {
     "start": "gatsby develop",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "type-check": "tsc --noEmit",
-    "lint": "eslint \"**/*.{js,jsx,ts,tsx,json}\"",
-    "fix-lint": "eslint \"**/*.{js,jsx,ts,tsx,json}\" --fix",
-    "test": "jest"
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "gatsby": "^2.24.64",
